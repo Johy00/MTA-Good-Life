@@ -42,8 +42,8 @@ Oprogramowanie to nie wymaga żadnego specjalnego serwera dedykowanego. Aby go u
 
 # Sprawy Techniczne
 
-# Logi
+## Logi
 Wszystkie logi przechowywane są w katalogu GoodLife-Logi. Przy restarcie tego zasobu tworzony jest nowy plik z logami. Logi znajdują się też w bazie danych
 
-# hasła graczy
+## hasła graczy
 Hasła graczy zapisywane są w tabeli goodlife_users w skrócie MD5 a skrypt odpowiadający za hasła jest zakodowany aby zapobiec w przypadku wycieku bazy danych wtargnięć np na Portale Społecznościowe
