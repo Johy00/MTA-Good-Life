@@ -10,13 +10,13 @@ Stary
 Ten kod został wydany ponieważ projekt został zamknięty oraz GoToRPG zaprzestało rozwijania serwera na podstawie wydanego kodu
 # Zawartość opublikowanego kodu
 
-W reprezytirum znajduje sie:
+W repozytorium znajduje sie:
 
 Wyczyszczona struktura bazy danych
 
 Skrypty napisane w języku LUA
 
-W reprezytirum nie ma:
+W repozytorium nie ma:
 
 Kodu PHP do zmiany hasła
 
@@ -29,3 +29,13 @@ Kolczatek
 Modeli 3d
 
 Panelu Juniora
+
+# Gdzie uruchomić serwer
+
+Oprogramowanie to nie wymaga żadnego specjalnego serwera dedykowanego. Aby go uruchomić, wystarczy zwykły hosting współdzielony. W rzeczy samej polecamy skorzystanie z takiego hostingu w firmach:
+
+ServerProject - http://serverproject.pl/ - Hostingowali GoToRPG i nadal hostingują
+ServHost - http://servhost.pl/
+V-store - https://v-store.org/
+
+
