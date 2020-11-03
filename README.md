@@ -1,1 +1,3 @@
 # MTA-Good-Life
+# licencja
+
