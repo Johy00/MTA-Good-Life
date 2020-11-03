@@ -38,4 +38,9 @@ ServerProject - http://serverproject.pl/ - Hostingowali GoToRPG i nadal hostingu
 ServHost - http://servhost.pl/
 V-store - https://v-store.org/
 
+# Sprawy Techniczne
 
+#Logi
+Wszystkie logi przechowywane są w katalogu GoodLife-Logi. Przy restarcie tego zasobu tworzony jest nowy plik z logami. Logi znajdują się też a bazie danych
+
+# hasła
