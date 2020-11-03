@@ -2,8 +2,8 @@
 
 
 ## [GoToRPG]()
-Serwer opierający się na Gamemodzie GoodLife od Czerwca 2020 roku do 1sierpnia 2020 roku
-
+Serwer opierający się na Gamemodzie GoodLife od Czerwca 2020 roku do 1 sierpnia 2020 roku.
+Załoźycielem GoToRPG jest jeden z byłych właścicieli Good Life
 
 
 
