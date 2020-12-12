@@ -38,7 +38,6 @@ Oprogramowanie to nie wymaga żadnego specjalnego serwera dedykowanego. Aby go u
 
 - ServerProject - http://serverproject.pl/ - Hostingowali GoToRPG i nadal hostingują
 - ServHost - http://servhost.pl/
-- V-store - https://v-store.org/
 
 # Sprawy Techniczne
 
